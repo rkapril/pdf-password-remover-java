@@ -1,5 +1,7 @@
 # pdf-password-remover-java
-`.env`
+
+### Create `.env` file on root folder
+
 1. dotenv.get("root")
-    - root path
+   - root path
 2. dotenv.get("password")
