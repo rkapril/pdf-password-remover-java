@@ -3,5 +3,5 @@
 ### Create `.env` file on root folder
 
 1. root
-   - root directory
+   - pdf file root directory
 2. password
